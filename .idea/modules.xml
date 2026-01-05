@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+
+  <!-- Configuration et gestion des modules du projet -->
+  <component name="ProjectModuleManager">
+
+    <modules>
+      <!-- Déclaration du module principal -->
+      <module
+              fileurl="file://$PROJECT_DIR$/.idea/tp29.iml"
+              filepath="$PROJECT_DIR$/.idea/tp29.iml" />
+    </modules>
+
+  </component>
+
+</project>

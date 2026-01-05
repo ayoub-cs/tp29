@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+
+  <!-- Configuration des racines et paramètres du module Java -->
+  <component
+          name="NewModuleRootManager"
+          inherit-compiler-output="true">
+
+    <!-- Exclusion du répertoire de sortie de la structure du module -->
+    <exclude-output />
+
+    <!-- Répertoire principal du module -->
+    <content url="file://$MODULE_DIR$">
+
+      <!-- Déclaration du dossier contenant le code source -->
+      <sourceFolder
+              url="file://$MODULE_DIR$/src"
+              isTestSource="false" />
+
+    </content>
+
+    <!-- Utilisation du JDK défini au niveau du projet -->
+    <orderEntry type="inheritedJdk" />
+
+    <!-- Référence au dossier source pour la compilation -->
+    <orderEntry
+            type="sourceFolder"
+            forTests="false" />
+
+  </component>
+
+</module>
